@@ -1,0 +1,22 @@
+*
+{
+  background-color: black;
+}
+
+
+h1
+{
+  text-align: center;
+  margin-top: 20%;
+  color: white;
+  font-size: 80px;
+
+}
+
+button
+{
+  width: 100px;
+  height: 50px;
+  background-color: tomato;
+  color: white;
+}
